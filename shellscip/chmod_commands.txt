@@ -1,0 +1,13 @@
+chmod (user)(group)(others) filename 
+
+0 = 0 = no permissions
+1 = 1= execute
+2 = 2= write
+3 = 2+1 = write and execute 
+4 = 4 = read 
+5 = 4+1 = only read permissions 
+6 = 4+2 = r+w
+7 = 4+2+1 = r+w+x
+
+
+
